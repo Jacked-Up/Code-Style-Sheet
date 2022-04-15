@@ -1,2 +1,1 @@
-# Code-Style-Sheet
-How we type our code.
+## This is how we type and organize our code.
